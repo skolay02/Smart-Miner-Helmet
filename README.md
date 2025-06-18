@@ -11,3 +11,5 @@ To ensure immediate response, buzzers and LEDs are triggered when any sensor rea
 An emergency SOS button is also incorporated, which activates a buzzer and sends a distress alert to the web portal when pressed. Furthermore, the integration of an ESP32-CAM module allows for live video streaming from the miner’s location. This feature enhances situational awareness and is especially useful during rescue operations.
 
 Overall, the Smart Miner Helmet is a practical and impactful solution that combines real-time monitoring, alert mechanisms, and visual surveillance to significantly enhance miner safety in hazardous underground environments.
+
+https://github.com/skolay02/Smart-Miner-Helmet/issues/1#issue-3157425259
