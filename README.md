@@ -12,4 +12,6 @@ An emergency SOS button is also incorporated, which activates a buzzer and sends
 
 Overall, the Smart Miner Helmet is a practical and impactful solution that combines real-time monitoring, alert mechanisms, and visual surveillance to significantly enhance miner safety in hazardous underground environments.
 
+<h1>Working Prototype:</h1>
+
 https://github.com/user-attachments/assets/7a8d40d7-bf00-423d-b0dc-223aa8df077b
